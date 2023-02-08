@@ -1,0 +1,73 @@
+{
+  "lihuowang:Xinsu": {
+    "NAME": "心素",
+    "FLAVOR": "我是谁？我在哪？我没病！！！",
+    "DESCRIPTIONS": [
+      "每场回合开始时，手牌中增加 #b1 张 #y疑虑 。每抽到3张 #y疑虑 时获得一回合 #y疯癫 效果"
+    ]
+  },
+  "lihuowang:Dengjie": {
+    "NAME": "登阶计数（上限10）",
+    "FLAVOR": "感谢榜一大哥巴豗打赏的一个火箭",
+    "DESCRIPTIONS": [
+      "每场回合开始时，获得登阶次数(8-4-2-1-1...)层 再生 。"
+    ]
+  },
+  "lihuowang:Huowozhenjing": {
+    "NAME": "火沃真经",
+    "FLAVOR": "心怀怜悯，火沃众生",
+    "DESCRIPTIONS": [
+      "xxxxx"
+    ]
+  },
+  "lihuowang:XinZhuoJian": {
+    "NAME": "心蟠脊骨剑",
+    "FLAVOR": "。",
+    "DESCRIPTIONS": [
+      "每场战斗开始时，手牌中增加 #b1 张 #y破碎虚空斩 。"
+    ]
+  },
+  "lihuowang:HuoLian": {
+    "NAME": "火镰",
+    "FLAVOR": "用了这把火镰，以后大家就都是熟人了。",
+    "DESCRIPTIONS": [
+      "每回合开始时获得 [E] 。 每场战斗开始时，将3张 灼烧 加入抽牌堆。"
+    ]
+  },
+  "lihuowang:XinzhuoFangchui": {
+    "NAME": "心浊纺锤",
+    "FLAVOR": "如果把阴阳两把纺锤的发丝连在一起，也许就可以构筑永恒的莫比乌斯环也说不定",
+    "DESCRIPTIONS": [
+      "每场战斗开始时获1层 无实体 。"
+    ]
+  },
+  "lihuowang:JianTianSi": {
+    "NAME": "监天司令牌",
+    "FLAVOR": "监天司. 列国为应对天灾设立的组织，持有令牌者可以击杀邪祟获得奖赏",
+    "DESCRIPTIONS": [
+      "与普通怪物|精英|BOSS战斗胜利后，分别获得10|40|50金币的赏金"
+    ]
+  },
+  "lihuowang:XuanyangYupei": {
+    "NAME": "玄阳玉佩",
+    "FLAVOR": "你，对！就是屏幕前的你，你不会真的以为这个玉佩后面还有什么事件吧？哈哈哈哈...",
+    "DESCRIPTIONS": [
+      "玄阳师兄生前携带的玉佩，看起来似乎很值钱。不对，现在我是玄阳了。"
+    ]
+  },
+  "lihuowang:PianJing": {
+    "NAME": "骗经",
+    "FLAVOR": "骗经有云——虚虚实实，九假一真",
+    "DESCRIPTIONS": [
+      "可以以极低的价格从商人处购买职业卡牌。一旦在商店中进行过消费就无法对下个商人使用。（有可能会骗走某人怀表）"
+    ]
+  },
+  "lihuowang:Renpi": {
+    "NAME": "替身人皮",
+    "FLAVOR": "心素人皮练成的法器，似乎有起死回生的功效",
+    "DESCRIPTIONS": [
+      "当你要被杀死时，复活并回复到最大生命值的 50% （同时只能存在一个）。"
+    ]
+  }
+
+}

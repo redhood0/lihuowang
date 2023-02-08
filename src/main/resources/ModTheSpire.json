@@ -1,0 +1,10 @@
+{
+  "modid": "lihuowang",
+  "name": "李火旺Mod",
+  "author_list": ["红中"],
+  "description": "道诡异仙同人李火旺mod。",
+  "version": "0.1.4",
+  "sts_version": "${SlayTheSpire.version}",
+  "mts_version": "${ModTheSpire.version}",
+  "dependencies": ["basemod", "stslib"]
+}

@@ -1,0 +1,350 @@
+{
+  "lihuowang:Strike": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害。"
+  },
+  "lihuowang:Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点 格挡 ",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 "
+  },
+  "lihuowang:Bite": {
+    "NAME": "撕咬",
+    "DESCRIPTION": " 造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害。"
+  },
+  "lihuowang:Bite2": {
+    "NAME": "撕咬",
+    "DESCRIPTION": " 保留 。造成 !D! 点伤害。 NL 处于 疯癫 状态时造成伤害加倍。",
+    "UPGRADE_DESCRIPTION": " 保留 。造成 !D! 点伤害。 NL 处于 疯癫 状态时造成伤害加倍。"
+  },
+  "lihuowang:BlackTaiSui": {
+    "NAME": "黑太岁",
+    "DESCRIPTION": " 在你回合开始时，消耗一张牌抽一张牌，如果消耗的是 诅咒 ，多抽一张",
+    "UPGRADE_DESCRIPTION": " 固有 。 NL 在你回合开始时，消耗一张牌抽一张牌，如果消耗的是 诅咒 ，多抽一张。"
+  },
+  "lihuowang:DaqianNail": {
+    "NAME": "大千录-裂甲",
+    "DESCRIPTION": " 保留 ; 消耗 。造成 !D! 点伤害。 NL 自身失去3点生命",
+    "UPGRADE_DESCRIPTION": " 保留 ; 消耗 。 造成 !D! 点伤害。 NL 自身失去3点生命"
+  },
+  "lihuowang:DaqianFinger": {
+    "NAME": "大千录-断指",
+    "DESCRIPTION": " 保留 ; 消耗 。造成 !D! 点无视格挡的伤害。 NL 自身失去6点生命",
+    "UPGRADE_DESCRIPTION": " 保留 ; 消耗 。 造成 !D! 点无视格挡的伤害。 NL 自身失去6点生命"
+  },
+  "lihuowang:DaqianEye": {
+    "NAME": "大千录-剜眼",
+    "DESCRIPTION": " 消耗 。 NL 自身失去8点生命，获得 !B! 点格挡和 [E] ",
+    "UPGRADE_DESCRIPTION": "消耗 。 NL 自身失去8点生命，获得 !B! 点格挡和 [E] [E] "
+  },
+  "lihuowang:DaqianTooth": {
+    "NAME": "大千录-拔牙",
+    "DESCRIPTION": " 消耗 。随机造成 !D! 点伤害 !M! 次。 NL 自身失去3点生命",
+    "UPGRADE_DESCRIPTION": "消耗 。随机造成 !D! 点伤害 !M! 次。 NL 自身失去3点生命"
+  },
+  "lihuowang:DaqianFireSkin": {
+    "NAME": "大千录-烈火焚身",
+    "DESCRIPTION": " 消耗 。 NL 对全体敌人造成 !D! 点伤害2次。 NL 自身失去 !M! 点生命,将2张 灼伤 放入你的弃牌堆中。",
+    "UPGRADE_DESCRIPTION": " 消耗 。 NL 对全体敌人造成 !D! 点伤害2次。 NL 自身失去  !M! 点生命,将2张 灼伤 放入你的弃牌堆中。"
+  },
+  "lihuowang:Daqianlu": {
+    "NAME": "大千录残卷",
+    "DESCRIPTION": " 随机将4张【大千录】 卡牌加入卡组。 NL 极度绝望时蒼蜣登階(1生命&0醻犤&0**)",
+    "UPGRADE_DESCRIPTION": " 随机将4张【大千录】 卡牌加入卡组。 NL 极度绝望时蒼蜣登階(1生命&0醻犤&0**)"
+  },
+  "lihuowang:DaqianSkin": {
+    "NAME": "大千录-剥皮",
+    "DESCRIPTION": " 保留 ; 消耗 。 NL 所有敌人失去 !M! 力量1回合。 NL 自身失去8点生命 ",
+    "UPGRADE_DESCRIPTION": " 保留 ; 消耗 。 NL 所有敌人失去 !M! 力量1回合。 NL 自身失去8点生命 "
+  },
+  "lihuowang:DaqianArm": {
+    "NAME": "大千录-断臂",
+    "DESCRIPTION": " 保留 ; 消耗 。 NL 消耗一张卡 NL 造成 !D! 伤害，给予 !M! 层 易伤 。 NL 自身失去10点生命 ",
+    "UPGRADE_DESCRIPTION": " 保留  消耗 。 NL 消耗一张卡，造成 !D! 点伤害，给予 !M! 层易伤 。 NL 自身失去10点生命 "
+  },
+  "lihuowang:DaqianRib": {
+    "NAME": "大千录-肋间折骨",
+    "DESCRIPTION": " 保留 ; 消耗 。 NL 消耗一张卡，给予敌方全体 !M! 层 易伤 和 虚弱后，造成 !D! 点伤害 。 NL 自身失去10点生命 ",
+    "UPGRADE_DESCRIPTION": " 保留 ; 消耗 。 NL 消耗一张卡，给予敌方全体 !M! 层 易伤 和 虚弱后，造成 !D! 点伤害 。 NL 自身失去10点生命 "
+  },
+  "lihuowang:DaqianDengJie": {
+    "NAME": "大千录-苍蜣登阶",
+    "DESCRIPTION": " 消耗 。 NL 消耗所有手牌，抽 4 张牌，给予敌方全体 99 层 易伤。 NL 自身生命低于 !M! 点时，获得 [E] [E] &1层 无实体 &8层 再生 ，永久获得（8-4-2-1-1...）层 再生。",
+    "UPGRADE_DESCRIPTION": " 消耗 。 NL 消耗所有手牌，抽 6 张牌，给予敌方全体 99 层 易伤。 NL 自身生命低于 !M! 点时，获得 [E] [E] &1层 无实体 &8层 再生 ，永久获得（8-4-2-1-1...）层 再生。"
+  },
+  "lihuowang:DaqianWuxing": {
+    "NAME": "大千录-置闰五行",
+    "DESCRIPTION": " 消耗 。 NL 受到伤害恢复等量生命值， !M! 回合后死亡。",
+    "UPGRADE_DESCRIPTION": " 消耗 。 NL 消耗所有手牌，抽 !M! 张牌，给予敌方全体 99 层 易伤。 NL 自身生命低于 10 点时，获得 [E] [E] &1层 无实体 ，永久获得6层 再生。"
+  },
+  "lihuowang:Interrogation": {
+    "NAME": "血腥拷问",
+    "DESCRIPTION": " 消耗 。 造成 !D! 点伤害 !M! 次。",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害 !M! 次。"
+  },
+  "lihuowang:DoubleChop": {
+    "NAME": "双剑斩",
+    "DESCRIPTION": " 造成 !D! 点伤害 2次。",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害2次。"
+  },
+  "lihuowang:SneakAttack": {
+    "NAME": "偷袭",
+    "DESCRIPTION": " 造成 !D! 点伤害。 NL 如果敌人有 易伤 则伤害增加3点， 易伤 层数加1。",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害。 NL 如果敌人有 易伤 则伤害增加3点， 易伤 层数加1。"
+  },
+  "lihuowang:BreakSwordAttack": {
+    "NAME": "破剑式",
+    "DESCRIPTION": " 造成 !D! 点伤害。 NL 如果敌人意图是攻击，则伤害增加6点,给予 !M! 层 虚弱 ",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害。 NL 如果敌人有 易伤 则伤害增加3点， 易伤 层数加1。"
+  },
+  "lihuowang:BackWindAttack": {
+    "NAME": "回风落雁",
+    "DESCRIPTION": " 疯癫 状态下无法打出。 NL 造成 !D! 点伤害 3次。 ",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害。 NL 如果敌人有 易伤 则伤害增加3点， 易伤 层数加1。",
+    "EXTENDED_DESCRIPTION": [
+      " 疯癫 状态下无法打出。"
+    ]
+  },
+  "lihuowang:MaJiang": {
+    "NAME": "打麻将！（物理）",
+    "DESCRIPTION": "造成 1-2-3 点固定伤害。 NL 抽 !M! 张牌。 NL 让我看看你有几张脸。",
+    "UPGRADE_DESCRIPTION": " 造成 1-2-3 点固定伤害。 NL 抽 !M! 张牌。 NL 让我看看你有几张脸。"
+  },
+  "lihuowang:DaLiDan": {
+    "NAME": "大力丹",
+    "DESCRIPTION": " 消耗 。 获得 !B! 点 格挡 和 !M! 点 力量 ",
+    "UPGRADE_DESCRIPTION": " 消耗 。 获得 !B! 点 格挡 和 !M! 点 力量  "
+  },
+  "lihuowang:RunXueDan": {
+    "NAME": "润血丹",
+    "DESCRIPTION": " 消耗 。 回复 !M! 生命 ",
+    "UPGRADE_DESCRIPTION": " 消耗 。 回复 !M! 生命 ，随机移除一个负面效果。"
+  },
+  "lihuowang:YangShouDan": {
+    "NAME": "阳寿丹",
+    "DESCRIPTION": " 消耗 。提高 !M! 点生命上限。 NL （阳寿上限120，普通阳寿丹无法继续增加阳寿）",
+    "UPGRADE_DESCRIPTION": " 消耗。 提高 !M! 点生命上限。 NL （阳寿上限120，普通阳寿丹无法继续增加阳寿）"
+  },
+  "lihuowang:DanLu": {
+    "NAME": "丹炉",
+    "DESCRIPTION": " 不可叠加，每回合随机生成一张丹药在手牌。",
+    "UPGRADE_DESCRIPTION": " 不可叠加，每回合随机生成一张丹药在手牌。"
+  },
+  "lihuowang:BonesReflect": {
+    "NAME": "骨刺反转",
+    "DESCRIPTION": " 消耗 。你的 荆棘 翻倍。 NL 没有 荆棘 时失去 格挡 ，获得 格挡 层数一半的 荆棘 。",
+    "UPGRADE_DESCRIPTION": "你的 荆棘 翻倍。 NL 没有 荆棘 时失去 格挡 ，获得 格挡 层数一半的 荆棘 。"
+  },
+  "lihuowang:PlayFire": {
+    "NAME": "玩火自焚",
+    "DESCRIPTION": " 对所有敌人造成 !D! 点伤害。 NL 将2张 灼伤 放入你的弃牌堆中。",
+    "UPGRADE_DESCRIPTION": " 对所有敌人造成 !D! 点伤害。 NL 将2张 灼伤 放入你的弃牌堆中。"
+  },
+  "lihuowang:FindInFire": {
+    "NAME": "火中取栗",
+    "DESCRIPTION": " 抽 !M! 张牌。 NL 将2张 灼伤 放入你的抽牌堆中。",
+    "UPGRADE_DESCRIPTION": " 抽 !M! 张牌。 NL 将2张 灼伤 放入你的抽牌堆中。"
+  },
+  "lihuowang:HuoWoZhenJin": {
+    "NAME": "火沃真经",
+    "DESCRIPTION": "打出获得1点 lihuowang:怜悯 值。 NL 每回合可以打出 lihuowang:怜悯 值2倍次数的 灼伤 。 NL 打出 灼伤 会回复 4 点生命。",
+    "UPGRADE_DESCRIPTION": " 保留 。打出获得1点 lihuowang:怜悯 值。 NL 每回合可以打出 lihuowang:怜悯 值2倍次数的 灼伤 。 NL 打出 灼伤 会回复 4 点生命。"
+  },
+  "lihuowang:ControlCloth": {
+    "NAME": "拘束服",
+    "DESCRIPTION": " 减少 3点 力量 。 NL 获得  !M! 层 lihuowang:多层护甲 ",
+    "UPGRADE_DESCRIPTION": " 减少 3点 力量 。 NL 获得  !M! 层 lihuowang:多层护甲 "
+  },
+  "lihuowang:AnDing": {
+    "NAME": "镇定剂",
+    "DESCRIPTION": " 消耗 。恢复 !M! 点生命。 如果处于 疯癫 ，解除 疯癫 状态，恢复1点 能量。",
+    "UPGRADE_DESCRIPTION": " 消耗 ； 保留 。恢复 !M! 点生命。 如果处于 疯癫 ，解除 疯癫 状态，恢复1点 能量。"
+  },
+  "lihuowang:ReadMind": {
+    "NAME": "读十情",
+    "DESCRIPTION": " 如果一名敌人意图是攻击，你获得 !B! 格挡 。 NL 否则,你获得 !M! 点 力量 ",
+    "UPGRADE_DESCRIPTION": " 如果一名敌人的意图是攻击，你获得 !B! 格挡  NL 否则,你获得  !M! 点 力量"
+  },
+  "lihuowang:ImNotSick": {
+    "NAME": "我没病",
+    "DESCRIPTION": " 不能被打出 。 NL 被消耗时将一张 疯狂 加入手牌,将一张 我没病 加入抽牌堆.",
+    "UPGRADE_DESCRIPTION": " 不能被打出 。 NL 被消耗时将一张 疯狂+ 加入手牌,将一张 我没病+ 加入抽牌堆.",
+    "EXTENDED_DESCRIPTION": [
+      "不能被打出。"
+    ]
+  },
+  "lihuowang:ShenXingFu": {
+    "NAME": "神行[符篆]",
+    "DESCRIPTION": " 消耗 。获得 !M! 点 敏捷 ,抽一张牌。 NL 在你的回合结束时，失去 !M! 点 敏捷 ",
+    "UPGRADE_DESCRIPTION": " 消耗 。获得 !M! 点 敏捷 ,抽一张牌。 NL 在你的回合结束时，失去 !M! 点 敏捷 "
+  },
+  "lihuowang:Dodge": {
+    "NAME": "躲闪",
+    "DESCRIPTION": "获得 !B! 格挡 2次",
+    "UPGRADE_DESCRIPTION": "获得 !M! 格挡 2次"
+  },
+  "lihuowang:BearPain": {
+    "NAME": "承受苦痛",
+    "DESCRIPTION": "获得 !B! 点 格挡 。 NL 失去  !M! 点 生命 。 ",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 失去  !M! 点 生命 。 "
+  },
+  "lihuowang:ManTouEat": {
+    "NAME": "馒头先吃",
+    "DESCRIPTION": "获得 !M! 层 人工制品 。 NL 大概率馒头死亡。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 人工制品 。 NL 小概率馒头死亡。"
+  },
+  "lihuowang:XinSuSkin": {
+    "NAME": "替身人皮",
+    "DESCRIPTION": " 消耗 。失去最大生命值一半的 生命 。 NL 获得 替身人皮（一次复活）。( 生命 不足一半或不携带 心素 时无法使用)",
+    "UPGRADE_DESCRIPTION": " 消耗 。失去最大生命值一半的 生命 。 NL 获得 替身人皮（一次复活）。( 生命 不足一半或不携带 心素 时无法使用)"
+  },
+  "lihuowang:ChangePosition": {
+    "NAME": "移形换位",
+    "DESCRIPTION": " 消耗 虚无 。 NL 获得 !M! 层 无实体和 !B! 点 格挡",
+    "UPGRADE_DESCRIPTION": " 消耗 。 NL 获得 !M! 层 无实体和 !B! 点 格挡"
+  },
+  "lihuowang:MoonWindSword": {
+    "NAME": "明月清风",
+    "DESCRIPTION": "  造成 !D! 点伤害。 NL 若斩杀，则获得 [E] 并抽 !M! 张牌。 NL  疯癫 状态时无法使用",
+    "UPGRADE_DESCRIPTION": " 消耗 。 NL 获得 !M! 层 无实体和 !B! 点 格挡"
+  },
+  "lihuowang:MoneySword": {
+    "NAME": "铜钱剑-撒币",
+    "DESCRIPTION": " 失去 !M! 枚金币。获得1层 lihuowang:铜钱 计数。 NL 造成 !D! 点 lihuowang:铜钱 次数伤害。",
+    "UPGRADE_DESCRIPTION": " 失去 !M! 枚金币。获得1层 lihuowang:铜钱 计数。 NL 造成 !D! 点 lihuowang:铜钱 次数伤害。",
+    "EXTENDED_DESCRIPTION": [
+      " 钱不够时无法使用。 "
+    ]
+  },
+  "lihuowang:MoneyBack": {
+    "NAME": "铜钱剑-收",
+    "DESCRIPTION": " 持有 lihuowang:铜钱 状态时可以使用。 NL 获得 lihuowang:铜钱 计数 !M! 倍 金币 & 格挡 ,移除 lihuowang:铜钱 状态。",
+    "UPGRADE_DESCRIPTION": " 持有 lihuowang:铜钱 状态时可以使用。 NL 获得 lihuowang:铜钱 计数 !M! 倍 金币 & 格挡 ,移除 lihuowang:铜钱 状态。"
+  },
+  "lihuowang:BreakSpace": {
+    "NAME": "破碎虚空斩",
+    "DESCRIPTION": "消除所有敌方 格挡 ，造成 !D! 点伤害。 NL 将1张 虚空 放入你的弃牌堆中。",
+    "UPGRADE_DESCRIPTION": " 持有 铜钱 状态时可以使用。 NL 获得铜钱计数 !M! 倍 金币 & 格挡 , 移除 铜钱 状态。"
+  },
+  "lihuowang:FireDefense": {
+    "NAME": "神火护体",
+    "DESCRIPTION": " 获得 !B! 格挡. NL 将2张 灼伤 放入你的弃牌堆中。",
+    "UPGRADE_DESCRIPTION": " 获得 !B! 格挡. NL 将2张 灼伤 放入你的弃牌堆中。"
+  },
+  "lihuowang:YiJiaXiuZhen": {
+    "NAME": "以假修真",
+    "DESCRIPTION": " 消耗 。 消耗 一张牌获得 [E] 。 NL 如果消耗的是 诅咒 或 状态 牌，额外将一张无色牌加入手牌，本回合耗能变为0",
+    "UPGRADE_DESCRIPTION": " 消耗 一张牌获得 [E] 。 NL 如果消耗的是 诅咒 或 状态 牌，额外将一张无色牌加入手牌，本回合耗能变为0"
+  },
+  "lihuowang:LianQi": {
+    "NAME": "练气",
+    "DESCRIPTION": " 获得 !B! 格挡 。 NL 如果被消耗，获得 [E] 。",
+    "UPGRADE_DESCRIPTION": " 获得 !B! 格挡 。 NL 如果被消耗，获得 [E] 。"
+  },
+  "lihuowang:ImSick": {
+    "NAME": "我有病啊！我有病",
+    "DESCRIPTION": " 进入 疯癫 状态 。 NL 将一张 疯狂 ， 疑虑 ， 悔恨 ， 苦恼 加入抽牌堆 。",
+    "UPGRADE_DESCRIPTION": " 固有 。 进入 疯癫 状态 。 NL 将一张 疯狂 ， 疑虑 ， 悔恨 ， 苦恼 加入抽牌堆 。"
+  },
+  "lihuowang:GhostRing": {
+    "NAME": "唤魂铃-游老爷",
+    "DESCRIPTION": " 消耗 5 生命 上限。给予目标 1 层 lihuowang:缓慢 ，造成30点固定伤害。 NL 当这名敌人死亡时，对所有敌人造成等于其最大生命值的伤害。",
+    "UPGRADE_DESCRIPTION": " 消耗 5 生命 上限。给予目标 2 层 lihuowang:缓慢 ，造成40点固定伤害。 NL 当这名敌人死亡时，对所有敌人造成等于其最大生命值的伤害。"
+  },
+  "lihuowang:TentacleBind": {
+    "NAME": "触手-缠绕",
+    "DESCRIPTION": "身上持有 黑太岁 可以使用。 NL 造成 !D! 点 伤害 ，你在这个回合内每打出一张牌，该名敌人都会失去2点生命。 NL 消耗 该牌恢复 !M! 点生命",
+    "UPGRADE_DESCRIPTION": "身上持有 黑太岁 可以使用。 NL 造成 !D! 点 伤害 ，你在这个回合内每打出一张牌，该名敌人都会失去2点生命。 NL 消耗 该牌恢复 !M! 点生命"
+  },
+  "lihuowang:TentacleSlash": {
+    "NAME": "触手-鞭打",
+    "DESCRIPTION": "身上持有 黑太岁 可以使用。 NL 造成 !D! 点 伤害 2 次。 NL 消耗 该牌恢复 !M! 点生命",
+    "UPGRADE_DESCRIPTION": "身上持有 黑太岁 可以使用。 NL 造成 !D! 点 伤害 2次。 NL 消耗 该牌恢复 !M! 点生命"
+  },
+  "lihuowang:TentacleMend": {
+    "NAME": "触手-缝合",
+    "DESCRIPTION": "身上持有 黑太岁 可以使用。 NL 获得 !B! 格挡 2次。 NL 消耗 该牌恢复 !M! 点生命",
+    "UPGRADE_DESCRIPTION": "身上持有 黑太岁 可以使用。 NL 获得 !B! 格挡 2次。 NL 消耗 该牌恢复 !M! 点生命"
+  },
+  "lihuowang:StoneBook": {
+    "NAME": "天书护体",
+    "DESCRIPTION": "减少2点 敏捷 。 NL 在你的回合结束时，获得 !M! 点 格挡 。",
+    "UPGRADE_DESCRIPTION": "减少2点 敏捷 。 NL 在你的回合结束时，获得 !M! 点 格挡 。"
+  },
+  "lihuowang:MoneyMask": {
+    "NAME": "铜钱面具",
+    "DESCRIPTION": "获得 !M!  层 lihuowang:多层护甲 。 NL 获得 15 金币。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层 lihuowang:多层护甲 。 NL 获得 20 金币。"
+  },
+  "lihuowang:WangLiangBody": {
+    "NAME": "魍魉之躯",
+    "DESCRIPTION": "每从卡组抽到2张 诅咒 ，获得 !M! 力量 。",
+    "UPGRADE_DESCRIPTION": "每从卡组抽到2张 诅咒 ，获得 !M! 力量 。"
+  },
+  "lihuowang:EatMeat": {
+    "NAME": "丹阳子化",
+    "DESCRIPTION": "获得7点 力量 和 敏捷 ，阻止下一次你受到的生命值损伤。 NL 智商受丹阳子影响，在你的回合开始时减少1点 [E] ，每回合额外减少1。",
+    "UPGRADE_DESCRIPTION": "获得10点 力量 和 敏捷 ，阻止下一次你受到的生命值损伤。 NL 智商受丹阳子影响，在你的回合开始时减少1点 [E] ，每回合额外减少1。"
+  },
+  "lihuowang:ZhuBuBiHuang": {
+    "NAME": "逐卜避荒[符篆]",
+    "DESCRIPTION": " 预见 3。抽1张牌。 ",
+    "UPGRADE_DESCRIPTION": " 预见 5。抽2张牌。"
+  },
+  "lihuowang:ZiHuiJianZhan": {
+    "NAME": "紫穗剑斩",
+    "DESCRIPTION": " 获得 !M! 层 lihuowang:煞气 。 NL 造成 !D! 伤害 。",
+    "UPGRADE_DESCRIPTION": " 获得 !M! 层 煞气 。 NL 造成 !D! 伤害 。"
+  },
+  "lihuowang:ShaQiInside": {
+    "NAME": "煞气入体",
+    "DESCRIPTION": "将你的 lihuowang:煞气 翻倍。 NL 如果没有 lihuowang:煞气 ，则获得 !M! 层 lihuowang:煞气 。",
+    "DESCRIPTION": "将你的 lihuowang:煞气 翻倍。 NL 如果没有 lihuowang:煞气 ，则获得 !M! 层 lihuowang:煞气 。",
+    "UPGRADE_DESCRIPTION": "将你的 煞气 变成三倍。 NL 如果没有煞气，则获得 !M! 层 煞气 。。"
+  },
+  "lihuowang:BiGuDan": {
+    "NAME": "辟谷丹",
+    "DESCRIPTION": " 消耗 ; 保留 。恢复 !M! 生命  ,下一回合获得 [E]",
+    "UPGRADE_DESCRIPTION": " 消耗 ; 保留 。恢复 !M! 生命  ,下一回合获得 [E] [E] "
+  },
+  "lihuowang:MoneyAgainstGhost": {
+    "NAME": "铜钱剑-避邪",
+    "DESCRIPTION": "失去 !M! 枚金币， 消耗1张牌。获得1层 lihuowang:铜钱 计数。 NL 获得 !B! 点 格挡 ，如果消耗 诅咒 获得格挡翻倍。",
+    "UPGRADE_DESCRIPTION": " 失去 !M! 枚金币， 消耗 1张牌。获得1层 lihuowang:铜钱 计数。 NL 获得 !B! 点 格挡 ，如果消耗 诅咒 获得格挡翻倍。 ",
+    "EXTENDED_DESCRIPTION": [
+      " 钱不够时无法使用。 "
+    ]
+  },
+  "lihuowang:Guankou": {
+    "NAME": "上极灌口",
+    "DESCRIPTION": "弃 1 张牌. 预见 !M! NL 抽 1 张牌 NL 一密换一密。",
+    "UPGRADE_DESCRIPTION": "弃 1 张牌. 预见 !M! NL 抽 1 张牌 NL 一密换一密。"
+  },
+  "lihuowang:DaqianYoufutongxiang": {
+    "NAME": "大千录-有福同享",
+    "DESCRIPTION": " 每当你从一张牌中失去生命时，对敌方全体造成相同数量 !M! 倍无视护甲的伤害 。",
+    "UPGRADE_DESCRIPTION": "弃 1 张牌. 预见 !M! NL 抽 1 张牌 NL 一密换一密。"
+  },
+  "lihuowang:Xiesuiwang": {
+    "NAME": "我是超级邪祟王",
+    "DESCRIPTION": " 消耗一张随机手牌。 NL 对敌人造成你在本场战斗中消耗的 诅咒 牌总数 !M! 倍的伤害。 ",
+    "UPGRADE_DESCRIPTION": " 消耗一张手牌。 NL 对敌人造成你在本场战斗中消耗的 诅咒 牌总数 !M! 倍的伤害。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （造成 !D! 点伤害）",
+      ""
+    ]
+  },
+  "lihuowang:Dingshenfu": {
+    "NAME": "定身[符篆]",
+    "DESCRIPTION": " 消耗 。 NL 定住目标敌方1回合无法行动，抽 !M! 张牌。 NL （对boss使用无效）",
+    "UPGRADE_DESCRIPTION": " 消耗 ; 保留 。 NL 定住目标敌方1回合无法行动，抽 !M! 张牌。  NL （对boss使用无效）"
+  },
+  "lihuowang:Lisui_dog": {
+    "NAME": "李岁（狗形态）",
+    "DESCRIPTION": " 固有 。获得1层 lihuowang:黑太岁 和 人工制品 。 NL 回合开始对所有敌人造成 !D! 点伤害。[触手] 类牌 伤害 & 格挡 增加 !M! 点。 NL 能被多次升级。",
+    "UPGRADE_DESCRIPTION": " 消耗 ; 保留 。 NL 定住目标敌方1回合无法行动，抽 !M! 张牌。  NL （对boss使用无效）"
+  }
+
+}

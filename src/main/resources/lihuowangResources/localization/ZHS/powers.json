@@ -1,0 +1,68 @@
+{
+  "lihuowang:CrazyPower": {
+    "NAME": "疯癫",
+    "DESCRIPTIONS": [
+      "李火旺开始发癫，攻击造成伤害增加50%，受到伤害减少25%"
+    ]
+  },
+  "lihuowang:BlackTaiSuiPower": {
+    "NAME": "黑太岁",
+    "DESCRIPTIONS": [
+      "在你回合开始时，消耗一张牌抽一张牌，如果消耗的是诅咒，多抽一张","在你回合开始时，消耗一张牌抽一张牌，如果消耗的是诅咒，多抽一张"
+    ]
+  },
+  "lihuowang:WuxingPower": {
+    "NAME": "置闰五行",
+    "DESCRIPTIONS": [
+      "受到伤害恢复等量生命值，","  回合后死亡"
+    ]
+  },
+  "lihuowang:DanLuPower": {
+    "NAME": "丹炉",
+    "DESCRIPTIONS": [
+      "每回合开始，随机将一张丹药加入手牌。（高稀有度丹药更难炼成）"
+    ]
+  },
+  "lihuowang:HuoWoPower": {
+    "NAME": "怜悯之心",
+    "DESCRIPTIONS": [
+      " 每回合最多可以打出怜悯值2倍数量 灼伤 。 打出 灼伤 会回复 4 点生命。"
+    ]
+  },
+  "lihuowang:MoneyPower": {
+    "NAME": "铜钱",
+    "DESCRIPTIONS": [
+      " 铜钱计数，上限5。"
+    ]
+  },
+  "lihuowang:WangLiangBodyPower": {
+    "NAME": "魍魉之躯",
+    "DESCRIPTIONS": [
+      " 每从卡组抽到2张诅咒，获得 1 力量 。"," 每从卡组抽到2张诅咒，获得 1-2 力量 。"
+    ]
+  },
+  "lihuowang:EatMeatPower": {
+    "NAME": "丹阳子化",
+    "DESCRIPTIONS": [
+      " 智商受丹阳子影响，在你的回合开始时减少1点 [E] ，每回合额外减少1。无法净化。"," 智商受丹阳子影响，在你的回合开始时减少1点 [E] ，每回合额外减少1。无法净化。"
+    ]
+  },
+  "lihuowang:ShaQiPower": {
+    "NAME": "煞气",
+    "DESCRIPTIONS": [
+      " 你的攻击会附加 煞气 层数的伤害。5层及以上煞气时每回合开始给予全体敌人一层 易伤 ,自己无法再从卡牌中获得 格挡 。"," 在你的回合开始时减少1点 [E] ，每回合额外减少1。"
+    ]
+  },
+  "lihuowang:YoufutongxiangPower": {
+    "NAME": "有福同享",
+    "DESCRIPTIONS": [
+      " 每当你从一张牌中失去生命时，对敌方全体造成相同数量"," 倍无视护甲的伤害 。"
+    ]
+  },
+  "lihuowang:LisuiPower": {
+    "NAME": "李岁（狗形态）",
+    "DESCRIPTIONS": [
+      "回合开始对所有敌人造成","点伤害。[触手]类牌 伤害 & 格挡 增加","点。"
+    ]
+  }
+}
